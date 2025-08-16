@@ -6,7 +6,9 @@ author_profile: true
 
 # Open data astronomy: my journey with Gaia  
 
-Since I was six years old, I have been fascinated by looking at the night sky and always trying to understand the Universe. That childhood curiosity grew over the years into a deep interest in astronomy. Although my academic path led me to particle physics and my professional career to information technologies and project management, the passion for the stars never disappeared.  
+When I was six years old in the festivities of the small village of Tella (Ponteceso, Galicia, Spain) I saw my first shooting star in a sky still very starry. Since then I have been fascinated by looking at the night sky and trying to learn what was beyond those twinkling lights. That childish curiosity transformed over the years into a deep interest in astronomy. I studied physics at the University of Santiago de Compostela, although it led me towards particle physics. My professional career was oriented towards information technologies and project management, but the passion for the stars never disappeared.
+
+Traducido con DeepL (https://dee.pl/apps).  
 
 In the world of computing, I learned Python programming and worked with data analysis and machine learning techniques. For years I applied these tools in contexts far removed from astronomy: predictive models, clustering, time series… However, when I discovered the **Gaia** satellite from the European Space Agency (ESA) and the richness of its data, I felt that scattered pieces of my life came together at one point: programming, data analysis and, above all, astronomy.  
 
