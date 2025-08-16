@@ -61,7 +61,7 @@ This blog is, ultimately, an invitation to join me on a personal journey. I am n
 
 If you are interested in astronomy, data, or simply the adventure of learning new things, you are more than welcome.  
 
-> As Carl Sagan said, *“we are made of star stuff”*. Perhaps, by exploring Gaia's data, we can better understand our place in the universe.  
+> As Carl Sagan said, *"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself”*. Perhaps, by exploring Gaia's data, we can better understand our place in the universe.  
 
 ---
 
